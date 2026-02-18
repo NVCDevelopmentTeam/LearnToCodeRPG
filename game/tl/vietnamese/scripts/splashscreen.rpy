@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2022-01-11 21:45
+
+translate vietnamese strings:
+
+    # game/scripts/splashscreen.rpy:25
+    old "Accessibility Tips: To enable auto-voicing of the text, please first configure the speech synthesis settings (speaker gender, accent, etc.) on your computer according to {a=https://www.renpy.org/doc/html/self_voicing.html#speech-synthesis}these instructions{/a}. Back to the game, you may press the {b}{u}v{/u}{/b} key to switch on auto-voicing.\n\nAdjust the volume of music and sound effects on the {icon=icon-settings} Settings screen.\n\nPress the {b}{u}Esc{/u}{/b} key to access the {icon=icon-grid}Game Menu at any time during the game."
+    new "Gợi ý tiếp cận: Để bật giọng đọc văn bản tự động, trước tiên vui lòng định cấu hình cài đặt tổng hợp giọng nói (giới tính người nói, giọng điệu, v.v.) trên máy tính của bạn theo {a=https://www.renpy.org/doc/html/self_voicing.html#speech-synthesis}các hướng dẫn này{/a}. Quay lại trò chơi, bạn có thể nhấn phím {b}{u}v{/u}{/b} để bật giọng đọc tự động.\n\nĐiều chỉnh âm lượng nhạc và hiệu ứng âm thanh trong màn hình {icon=icon-settings} Cài đặt.\n\nNhấn phím {b}{u}Esc{/u}{/b} để truy cập {icon=icon-grid}Menu trò chơi bất cứ lúc nào trong khi chơi."
+
+    # game/scripts/splashscreen.rpy:42
+    old "This game, {b}Learn to Code RPG{/b}, is currently in beta.\n\nIf you notice any bugs or have suggestions about accessibility, the interface, the story, or anything at all, please report them on our {a=https://github.com/freeCodeCamp/LearnToCodeRPG}GitHub repo{/a}.\n\nIf you are enjoying this game, please {icon=icon-thumbs-up} rate and review us on {a=https://freecodecamp.itch.io/learn-to-code-rpg}itch.io{/a} and {icon=icon-star} star our {a=https://github.com/freeCodeCamp/LearnToCodeRPG}GitHub repo{/a}."
+    new "Trò chơi {b}Learn to Code RPG{/b} hiện đang trong giai đoạn thử nghiệm.\n\nNếu bạn nhận thấy bất kỳ lỗi nào hoặc có góp ý về khả năng tiếp cận, giao diện, cốt truyện, hoặc bất cứ điều gì khác, vui lòng báo cáo chúng trên {a=https://github.com/freeCodeCamp/LearnToCodeRPG}kho lưu trữ GitHub{/a} của chúng tôi.\n\nNếu bạn yêu thích trò chơi này, vui lòng {icon=icon-thumbs-up} đánh giá và nhận xét về chúng tôi trên {a=https://freecodecamp.itch.io/learn-to-code-rpg}itch.io{/a} và {icon=icon-star} nhấn star cho {a=https://github.com/freeCodeCamp/LearnToCodeRPG}kho lưu trữ GitHub{/a} của chúng tôi nhé."
+
