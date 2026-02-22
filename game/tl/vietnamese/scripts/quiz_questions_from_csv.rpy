@@ -336,7 +336,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "baseline"
-    new "baseline"
+    new "đường cơ sở (baseline)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "In flexbox, some of the options for align-items include flex-start, flex-end, baseline and stretch"
@@ -400,11 +400,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "center"
-    new "center"
+    new "ở giữa (center)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "stretch"
-    new "stretch"
+    new "kéo giãn (stretch)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "In flexbox, some of the options for align-content include center, stretch, space-around and space-between"
@@ -704,19 +704,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "Alpha"
-    new "Alpha"
+    new "Alpha (Độ trong suốt)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "Alphabetical"
-    new "Alphabetical"
+    new "Theo bảng chữ cái"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "Ambiguous"
-    new "Ambiguous"
+    new "Mơ hồ"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "Ancient"
-    new "Ancient"
+    new "Cổ xưa"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The A in RGBA stands for Alpha. This value represents the transparency of the color."
@@ -832,19 +832,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "position"
-    new "position"
+    new "vị trí"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "unset"
-    new "unset"
+    new "bỏ đặt"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "initial"
-    new "initial"
+    new "ban đầu"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "revert"
-    new "revert"
+    new "hoàn nguyên"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The all CSS shorthand property can accept the following values: initial, inherit, unset, revert."
@@ -1260,19 +1260,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "opacity"
-    new "opacity"
+    new "độ mờ"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "margin"
-    new "margin"
+    new "lề"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "padding"
-    new "padding"
+    new "phần đệm"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "border"
-    new "border"
+    new "viền"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The opacity property is used to set the opacity of an HTML element."
@@ -1404,7 +1404,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "repeat"
-    new "repeat"
+    new "lặp lại"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The grid-template-areas property is used to set the space for grid cells in rows and columns."
@@ -1472,15 +1472,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "gap"
-    new "gap"
+    new "khoảng cách"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "start"
-    new "start"
+    new "bắt đầu"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "end"
-    new "end"
+    new "kết thúc"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The four values that can be used for the justify-items property are: start, end, center, and stretch."
@@ -1692,7 +1692,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "space"
-    new "space"
+    new "khoảng trống"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The space value is used to evenly distribute the space in the background-repeat property."
@@ -1704,15 +1704,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "round"
-    new "round"
+    new "làm tròn"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "around"
-    new "around"
+    new "xung quanh"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "rounding"
-    new "rounding"
+    new "làm tròn"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The round value is used to stretch the repeated images in the background-repeat property."
@@ -1744,15 +1744,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "top"
-    new "top"
+    new "trên cùng"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "bottom"
-    new "bottom"
+    new "dưới cùng"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "right"
-    new "right"
+    new "phải"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The background-position property can take in many values including of top, right, left and bottom."
@@ -1816,19 +1816,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "inherit"
-    new "inherit"
+    new "thừa kế"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "local"
-    new "local"
+    new "cục bộ"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "scroll"
-    new "scroll"
+    new "cuộn"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "fixed"
-    new "fixed"
+    new "cố định"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The background-attachment property can take in the fixed, scroll and local values."
@@ -1840,19 +1840,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "px"
-    new "px"
+    new "điểm ảnh"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "rem"
-    new "rem"
+    new "rem (đơn vị tương đối)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "em"
-    new "em"
+    new "em (đơn vị tương đối)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "vh"
-    new "vh"
+    new "vh (chiều cao khung nhìn)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "Relative units in CSS include rem, em, vh, and vw"
@@ -1888,7 +1888,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "vw"
-    new "vw"
+    new "vw (chiều rộng khung nhìn)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The rem unit is based on the root element's font size."
@@ -2136,11 +2136,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "bolding"
-    new "bolding"
+    new "in đậm"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "bold"
-    new "bold"
+    new "đậm"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "900"
@@ -2148,7 +2148,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "lighter"
-    new "lighter"
+    new "nhạt hơn"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "The option \"bolding\" is not a valid value for the font-weight property."
@@ -2160,15 +2160,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "none"
-    new "none"
+    new "không"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "underline"
-    new "underline"
+    new "gạch chân"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "overline"
-    new "overline"
+    new "gạch trên"
 
     # game/scripts/quiz_questions_from_csv.rpy:2
     old "line-through"
@@ -2232,19 +2232,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "href"
-    new "href"
+    new "tham chiếu siêu văn bản"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "src"
-    new "src"
+    new "nguồn"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "id"
-    new "id"
+    new "định danh"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "style"
-    new "style"
+    new "kiểu dáng"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "On the opening tag, <a>, an href attribute is added which is short for hypertext reference. The value of the href attribute specifies the desired URL you want the link to take users to when the link text is clicked."
@@ -2996,15 +2996,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "name"
-    new "name"
+    new "tên"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "multiple"
-    new "multiple"
+    new "nhiều lựa chọn"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "required"
-    new "required"
+    new "bắt buộc"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The <select> tag can have the following attributes: name, multiple, required, size, disabled and autofocus."
@@ -3784,11 +3784,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "tabindex"
-    new "tabindex"
+    new "thứ tự tab"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "hover"
-    new "hover"
+    new "di chuột"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "You can use the tabindex attribute to set an element's tab position"
@@ -4296,15 +4296,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "capture"
-    new "capture"
+    new "chụp"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "alt"
-    new "alt"
+    new "thay thế"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "height"
-    new "height"
+    new "chiều cao"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The img tag can use a variety of attributes including src, alt, width, and height."
@@ -4388,19 +4388,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "txt"
-    new "txt"
+    new "tệp văn bản"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "png"
-    new "png"
+    new "ảnh PNG"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "WebP"
-    new "WebP"
+    new "ảnh WebP"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "jpeg"
-    new "jpeg"
+    new "ảnh JPEG"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The img tag can support many formats including WebP, JPEG and PNG."
@@ -4564,7 +4564,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "camelCase"
-    new "camelCase"
+    new "kiểu lạc đà (camelCase)"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "snake_case"
@@ -4628,7 +4628,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "strong"
-    new "strong"
+    new "quan trọng"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The <strong> tag is used to make text bold and to indicate that the text is important."
@@ -4856,19 +4856,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "controls"
-    new "controls"
+    new "điều khiển"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "control"
-    new "control"
+    new "điều khiển"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "c"
-    new "c"
+    new "chữ c"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "basiccontrols"
-    new "basiccontrols"
+    new "điều khiển cơ bản"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The controls attribute adds the browser's basic video controls to the embedded video."
@@ -5012,19 +5012,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "pattern"
-    new "pattern"
+    new "mẫu"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "regex"
-    new "regex"
+    new "biểu thức chính quy"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "match"
-    new "match"
+    new "khớp"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "find"
-    new "find"
+    new "tìm kiếm"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The pattern attribute is used to check for a pattern in a text field. You can assign a regular expression to this attribute to define the pattern."
@@ -5036,15 +5036,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "max"
-    new "max"
+    new "tối đa"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "maximum"
-    new "maximum"
+    new "tối đa"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "min"
-    new "min"
+    new "tối thiểu"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The max attribute is used to set a maximum value allowed for user input in a numerical input field."
@@ -5056,7 +5056,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "minimum"
-    new "minimum"
+    new "tối thiểu"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The min attribute is used to set a minimum value allowed for user input in a numerical input field."
@@ -5068,11 +5068,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "mandatory"
-    new "mandatory"
+    new "bắt buộc"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "must"
-    new "must"
+    new "phải"
 
     # game/scripts/quiz_questions_from_csv.rpy:886
     old "The required attribute is used to make an <input> field required to submit a form."
@@ -6332,7 +6332,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "RAM"
-    new "RAM"
+    new "Bộ nhớ truy cập ngẫu nhiên (RAM)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "The ALU (short for Arithmetic Logic Unit), is the part where all mathematical calculations take place, such as addition, subtraction, multiplication, and division. The ALU is also responsible for all of the logical operations for decision making, such as comparing data."
@@ -6396,15 +6396,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Speakers"
-    new "Loa"
+    new "Loa (Speakers)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Monitor"
-    new "Monitor"
+    new "Màn hình"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Projector"
-    new "Projector"
+    new "Máy chiếu"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Examples of Input devices are a keyboard (used for typing text and characters � essentially for entering any written information), a mouse (for clicking, pointing, and selecting appropriate data) and a microphone."
@@ -7096,19 +7096,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "HTTPS "
-    new "HTTPS"
+    new "Giao thức truyền siêu văn bản bảo mật"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "HTTP"
-    new "HTTP"
+    new "Giao thức truyền siêu văn bản"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "FTP"
-    new "FTP"
+    new "Giao thức truyền tập tin"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "SMTP"
-    new "SMTP"
+    new "Giao thức truyền thư tín đơn giản"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "HTTPS is a more secure and confidential version of HTTP. It's the safest way to transfer data between a browser and a server."
@@ -7120,11 +7120,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "PTP"
-    new "PTP"
+    new "Giao thức ngang hàng"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "POP"
-    new "POP"
+    new "Giao thức bưu điện"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "File Transfer Protocol (FTP)? ?is a standard protocol used for transferring files between a client and a server over a network."
@@ -7160,11 +7160,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "MRAM "
-    new "MRAM"
+    new "Bộ nhớ truy cập ngẫu nhiên từ điện trở"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "ROM"
-    new "ROM"
+    new "Bộ nhớ chỉ đọc"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "While RAM is very fast, it is a type of volatile memory. This means that it only stores information while the computer is on. Unlike an HDD or SSD, once you shut down your computer, everything stored in RAM is lost."
@@ -7564,11 +7564,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "IDE"
-    new "IDE"
+    new "Môi trường phát triển tích hợp"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Bug"
-    new "Bug"
+    new "Lỗi phần mềm"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "An application software for accessing the World Wide Web is known as the browser."
@@ -7980,7 +7980,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2938
     old "Hoisting"
-    new "Hoisting"
+    new "Nâng biến lên đầu phạm vi"
 
     # game/scripts/quiz_questions_from_csv.rpy:2938
     old "Setter"
@@ -9944,11 +9944,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, we start a comment with a hash symbol #. A line that starts with this symbol will be interpreted as a comment in a Python program. "
-    new "In Python, we start a comment with a hash symbol #. A line that starts with this symbol will be interpreted as a comment in a Python program. "
+    new "Trong Python, chúng ta bắt đầu một bình luận bằng ký hiệu hash #. Một dòng bắt đầu bằng ký hiệu này sẽ được hiểu là một bình luận trong chương trình Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python keyword is used to return a value from a function?"
-    new "What Python keyword is used to return a value from a function?"
+    new "Từ khóa Python nào được dùng để trả về một giá trị từ một hàm?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "pass"
@@ -9968,7 +9968,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the meaning of PEP in Python?"
-    new "What is the meaning of PEP in Python?"
+    new "Ý nghĩa của PEP trong Python là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Python Enhancement Proposal"
@@ -10000,11 +10000,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "An empty list"
-    new "An empty list"
+    new "Một danh sách trống"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Python functions return the special value of None if they do not have an explicit return statement."
-    new "Python functions return the special value of None if they do not have an explicit return statement."
+    new "Các hàm trong Python trả về giá trị đặc biệt là None nếu chúng không có câu lệnh return rõ ràng."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the result of this Python code: �Hi� * 2?"
@@ -10032,71 +10032,71 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Which one of these operators has the highest precedence in Python?"
-    new "Which one of these operators has the highest precedence in Python?"
+    new "Toán tử nào sau đây có độ ưu tiên cao nhất trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The exponentiation operator ** has the highest precedence of these four options."
-    new "The exponentiation operator ** has the highest precedence of these four options."
+    new "Toán tử lũy thừa ** có độ ưu tiên cao nhất trong bốn lựa chọn này."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, it is recommended to write variable names in lowercase with words separated by..."
-    new "In Python, it is recommended to write variable names in lowercase with words separated by..."
+    new "Trong Python, các tên biến được khuyến nghị viết bằng chữ thường với các từ được phân cách bởi..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "an underscore"
-    new "an underscore"
+    new "dấu gạch dưới (underscore)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "an asterisk"
-    new "an asterisk"
+    new "dấu sao (asterisk)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "a question mark"
-    new "a question mark"
+    new "dấu chấm hỏi (question mark)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "a hash symbol"
-    new "a hash symbol"
+    new "dấu thăng (hash symbol)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "PEP 8, the Style Guide for Python Code, recommends writing variable names in lowercase with words separated by an underscore as necessary to improve readability."
-    new "PEP 8, the Style Guide for Python Code, recommends writing variable names in lowercase with words separated by an underscore as necessary to improve readability."
+    new "PEP 8, hướng dẫn phong cách cho mã Python, khuyến nghị viết tên biến bằng chữ thường với các từ được phân cách bằng dấu gạch dưới khi cần thiết để cải thiện khả năng đọc."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, strings are..."
-    new "In Python, strings are..."
+    new "Trong Python, các chuỗi là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Immutable"
-    new "Immutable"
+    new "Bất biến (Immutable)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Mutable"
-    new "Mutable"
+    new "Có thể thay đổi (Mutable)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Maintainable"
-    new "Maintainable"
+    new "Có thể bảo trì"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Unstoppable"
-    new "Unstoppable"
+    new "Không thể ngăn cản"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Strings are immutable, so we can't update or remove their characters after they have been defined in the program. "
-    new "Strings are immutable, so we can't update or remove their characters after they have been defined in the program. "
+    new "Chuỗi là bất biến, vì vậy chúng ta không thể cập nhật hoặc xóa các ký tự của chúng sau khi chúng đã được định nghĩa trong chương trình."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in data structure in Python can store key-value pairs? "
-    new "What built-in data structure in Python can store key-value pairs? "
+    new "Cấu trúc dữ liệu tích hợp sẵn nào trong Python có thể lưu trữ các cặp khóa-giá trị?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Dictionary"
-    new "Dictionary"
+    new "Từ điển (Dictionary)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A dictionary can store key-value pairs, which are pairs of associated values. We use the key to access its corresponding value in the dictionary. "
-    new "A dictionary can store key-value pairs, which are pairs of associated values. We use the key to access its corresponding value in the dictionary. "
+    new "Một từ điển có thể lưu trữ các cặp khóa-giá trị, là các cặp giá trị được liên kết với nhau. Chúng ta sử dụng khóa để truy cập giá trị tương ứng của nó trong từ điển."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns the length of a sequence?"
@@ -10132,15 +10132,15 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Are lists mutable or immutable in Python?"
-    new "Are lists mutable or immutable in Python?"
+    new "Trong Python, List là kiểu dữ liệu có thể thay đổi (mutable) hay bất biến (immutable)?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Lists are mutable built-in data structures in Python. This means that you can add new elements to a list, update the elements of a list, and remove elements from a list."
-    new "Lists are mutable built-in data structures in Python. This means that you can add new elements to a list, update the elements of a list, and remove elements from a list."
+    new "List là các cấu trúc dữ liệu tích hợp có thể thay đổi trong Python. Điều này có nghĩa là bạn có thể thêm phần tử mới vào danh sách, cập nhật các phần tử của danh sách và xóa các phần tử khỏi danh sách."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How many spaces are recommended per level of indentation in Python?"
-    new "How many spaces are recommended per level of indentation in Python?"
+    new "Có bao nhiêu khoảng trắng được khuyến nghị cho mỗi cấp thụt lề trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "10"
@@ -10156,19 +10156,19 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, it is recommended to use 4 spaces per level of indentation."
-    new "In Python, it is recommended to use 4 spaces per level of indentation."
+    new "Trong Python, bạn nên sử dụng 4 khoảng trắng cho mỗi cấp thụt lề."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What do you use to write comments in Python?"
-    new "What do you use to write comments in Python?"
+    new "Bạn sử dụng gì để viết bình luận trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Everything after the # symbol is considered a comment in Python and therefore is not executed."
-    new "Everything after the # symbol is considered a comment in Python and therefore is not executed."
+    new "Mọi thứ sau ký hiệu # đều được coi là một bình luận trong Python và do đó không được thực thi."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the addition assignment operator in Python?"
-    new "What is the addition assignment operator in Python?"
+    new "Toán tử gán cộng trong Python là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old " +="
@@ -10184,11 +10184,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The += operator lets you add a value (right operand) to the current value of a variable and store the result of the calculation in the same variable (left operand). This is shorter than using + and then = separately."
-    new "The += operator lets you add a value (right operand) to the current value of a variable and store the result of the calculation in the same variable (left operand). This is shorter than using + and then = separately."
+    new "Toán tử += cho phép bạn cộng một giá trị (toán hạng bên phải) vào giá trị hiện tại của một biến và lưu kết quả của phép tính vào chính biến đó (toán hạng bên trái). Cách này ngắn gọn hơn việc sử dụng + và sau đó là = riêng biệt."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Which built-in Python function is used for taking user input in Python?"
-    new "Which built-in Python function is used for taking user input in Python?"
+    new "Hàm Python tích hợp nào được sử dụng để lấy dữ liệu nhập từ người dùng?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "input()"
@@ -10208,35 +10208,35 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The input() function is used to take user input in Python."
-    new "The input() function is used to take user input in Python."
+    new "Hàm input() được sử dụng để lấy dữ liệu nhập từ người dùng trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How can you cast a value of any data type into a string in Python?"
-    new "How can you cast a value of any data type into a string in Python?"
+    new "Làm thế nào để ép kiểu một giá trị thuộc bất kỳ kiểu dữ liệu nào thành chuỗi trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Using the str() function"
-    new "Using the str() function"
+    new "Sử dụng hàm str()"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Using the int() function"
-    new "Using the int() function"
+    new "Sử dụng hàm int()"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Using the string() function"
-    new "Using the string() function"
+    new "Sử dụng hàm string()"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Using the integer() function"
-    new "Using the integer() function"
+    new "Sử dụng hàm integer()"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The str() function converts a value of any data type into a string."
-    new "The str() function converts a value of any data type into a string."
+    new "Hàm str() chuyển đổi một giá trị thuộc bất kỳ kiểu dữ liệu nào thành một chuỗi."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python operator is used to check if two values are equal?"
-    new "What Python operator is used to check if two values are equal?"
+    new "Toán tử Python nào được sử dụng để kiểm tra xem hai giá trị có bằng nhau không?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "="
@@ -10248,31 +10248,31 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The == operator is used to check if two values are equal in Python. It returns True if the values are equal and False otherwise."
-    new "The == operator is used to check if two values are equal in Python. It returns True if the values are equal and False otherwise."
+    new "Toán tử == được sử dụng để kiểm tra xem hai giá trị có bằng nhau hay không trong Python. Nó trả về True nếu các giá trị bằng nhau và False nếu ngược lại."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The integer used to refer to a character in a string or an element in a list or tuple is known as an..."
-    new "The integer used to refer to a character in a string or an element in a list or tuple is known as an..."
+    new "Số nguyên dùng để tham chiếu đến một ký tự trong chuỗi hoặc một phần tử trong danh sách hoặc tuple được gọi là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "index"
-    new "index"
+    new "chỉ số (index)"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "integer"
-    new "integer"
+    new "số nguyên"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "location"
-    new "location"
+    new "vị trí"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Strings, lists, tuples, and other sequences in Python have indices, which are integers used to refer to its elements. "
-    new "Strings, lists, tuples, and other sequences in Python have indices, which are integers used to refer to its elements. "
+    new "Chuỗi, danh sách, tuple và các trình tự khác trong Python có các chỉ số, là các số nguyên dùng để tham chiếu đến các phần tử của nó."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, the first index of a sequence is..."
-    new "In Python, the first index of a sequence is..."
+    new "Trong Python, chỉ số đầu tiên của một trình tự là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "-1"
@@ -10280,11 +10280,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The first index of a sequence in Python is 0."
-    new "The first index of a sequence in Python is 0."
+    new "Chỉ số đầu tiên của một trình tự trong Python là 0."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the new line character in Python?"
-    new "What is the new line character in Python?"
+    new "Ký tự xuống dòng trong Python là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "\\n"
@@ -10304,11 +10304,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "\\n is the newline character in Python."
-    new "\\n is the newline character in Python."
+    new "\\n là ký tự xuống dòng trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How can you create an empty list in Python?"
-    new "How can you create an empty list in Python?"
+    new "Làm thế nào để tạo một danh sách trống trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "dict()"
@@ -10324,11 +10324,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "You can create an empty list with [[] or with list() in Python."
-    new "You can create an empty list with [[] or with list() in Python."
+    new "Bạn có thể tạo một danh sách trống bằng [[] hoặc bằng list() trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How can you create an empty set in Python?"
-    new "How can you create an empty set in Python?"
+    new "Làm thế nào để tạo một tập hợp (set) trống trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "set()"
@@ -10344,11 +10344,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "You must call the set() function to create an empty set in Python."
-    new "You must call the set() function to create an empty set in Python."
+    new "Bạn phải gọi hàm set() để tạo một tập hợp trống trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How can you create an empty dictionary in Python?"
-    new "How can you create an empty dictionary in Python?"
+    new "Làm thế nào để tạo một từ điển (dictionary) trống trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "list()"
@@ -10356,47 +10356,47 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "You can create an empty dictionary with {{} in Python."
-    new "You can create an empty dictionary with {{} in Python."
+    new "Bạn có thể tạo một từ điển trống bằng {{} trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, the keys of a dictionary must be..."
-    new "In Python, the keys of a dictionary must be..."
+    new "Trong Python, các khóa của một từ điển phải..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Both will work"
-    new "Both will work"
+    new "Cả hai đều được"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Neither will work"
-    new "Neither will work"
+    new "Cả hai đều không được"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The keys of a Python dictionary must be immutable."
-    new "The keys of a Python dictionary must be immutable."
+    new "Các khóa của một từ điển Python phải là bất biến."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, the values of a dictionary can be..."
-    new "In Python, the values of a dictionary can be..."
+    new "Trong Python, các giá trị của một từ điển có thể..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Immutable or Mutable"
-    new "Immutable or Mutable"
+    new "Bất biến hoặc Có thể thay đổi"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "only immutable"
-    new "only immutable"
+    new "chỉ bất biến"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "only mutable"
-    new "only mutable"
+    new "chỉ có thể thay đổi"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The values of a Python dictionary can be either mutable or immutable. Both will work correctly. "
-    new "The values of a Python dictionary can be either mutable or immutable. Both will work correctly. "
+    new "Các giá trị của một từ điển Python có thể là bất biến hoặc có thể thay đổi. Cả hai đều sẽ hoạt động chính xác."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "If you try to access a key that does not exist in a Python dictionary, you will get a..."
-    new "If you try to access a key that does not exist in a Python dictionary, you will get a..."
+    new "Nếu bạn cố gắng truy cập một khóa không tồn tại trong từ điển Python, bạn sẽ gặp lỗi..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "KeyError"
@@ -10404,7 +10404,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Spelling Error"
-    new "Spelling Error"
+    new "Lỗi chính tả"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "ValueError"
@@ -10416,11 +10416,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "If you try to access a key that does not exist in a Python dictionary, you will get a KeyError."
-    new "If you try to access a key that does not exist in a Python dictionary, you will get a KeyError."
+    new "Nếu bạn cố gắng truy cập một khóa không tồn tại trong từ điển Python, bạn sẽ gặp lỗi KeyError."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How can you check if the key \"Nora\" is in the \"names\" dictionary?"
-    new "How can you check if the key \"Nora\" is in the \"names\" dictionary?"
+    new "Làm thế nào để kiểm tra xem khóa \"Nora\" có trong từ điển \"names\" hay không?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "\"Nora\" in names"
@@ -10440,11 +10440,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "To check if a key is in a dictionary, first we write the key followed by in and then the name of the dictionary. In this case, the correct option is \"Nora\" in names."
-    new "To check if a key is in a dictionary, first we write the key followed by in and then the name of the dictionary. In this case, the correct option is \"Nora\" in names."
+    new "Để kiểm tra xem một khóa có trong từ điển hay không, trước tiên chúng ta viết tên khóa, theo sau là từ khóa 'in' và sau đó là tên của từ điển. Trong trường hợp này, lựa chọn chính xác là \"Nora\" in names."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What method adds an element to the end of a list in Python?"
-    new "What method adds an element to the end of a list in Python?"
+    new "Phương thức nào dùng để thêm một phần tử vào cuối danh sách trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old ".append()"
@@ -10460,11 +10460,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The .append() method adds an element to the end of a list in Python."
-    new "The .append() method adds an element to the end of a list in Python."
+    new "Phương thức .append() thêm một phần tử vào cuối danh sách trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What method takes an iterable as an argument and adds the elements of that iterable to a list as individual elements?"
-    new "What method takes an iterable as an argument and adds the elements of that iterable to a list as individual elements?"
+    new "Phương thức nào nhận một iterable làm đối số và thêm các phần tử của iterable đó vào danh sách dưới dạng các phần tử riêng biệt?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old ".extend()"
@@ -10472,11 +10472,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The .extend() method takes an iterable as an argument and adds the elements of that iterable to a list as individual elements."
-    new "The .extend() method takes an iterable as an argument and adds the elements of that iterable to a list as individual elements."
+    new "Phương thức .extend() nhận một iterable làm đối số và thêm các phần tử của iterable đó vào danh sách dưới dạng các phần tử riêng biệt."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A value that evaluates to True in a boolean context is known as..."
-    new "A value that evaluates to True in a boolean context is known as..."
+    new "Một giá trị được đánh giá là True trong ngữ cảnh boolean được gọi là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Truthy"
@@ -10496,43 +10496,43 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A value that evaluates to True in a boolean context is known as a truthy value."
-    new "A value that evaluates to True in a boolean context is known as a truthy value."
+    new "Một giá trị được đánh giá là True trong ngữ cảnh boolean được gọi là giá trị truthy."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A value that evaluates to False in a boolean context is known as..."
-    new "A value that evaluates to False in a boolean context is known as..."
+    new "Một giá trị được đánh giá là False trong ngữ cảnh boolean được gọi là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "FALSENESS"
-    new "FALSENESS"
+    new "Sai"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Truth"
-    new "Truth"
+    new "Đúng"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A value that evaluates to False in a boolean context is known as a falsy value."
-    new "A value that evaluates to False in a boolean context is known as a falsy value."
+    new "Một giá trị được đánh giá là False trong ngữ cảnh boolean được gọi là giá trị falsy."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Empty sequences, collections and the number 0 are..."
-    new "Empty sequences, collections and the number 0 are..."
+    new "Các trình tự, bộ sưu tập trống và số 0 là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Empty sequences, collections, and the number 0 are falsy values in Python."
-    new "Empty sequences, collections, and the number 0 are falsy values in Python."
+    new "Các trình tự, bộ sưu tập trống và số 0 là các giá trị falsy trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Non-empty sequences, non-empty collections, and numerical values different from 0 are..."
-    new "Non-empty sequences, non-empty collections, and numerical values different from 0 are..."
+    new "Các trình tự, bộ sưu tập không trống và các giá trị số khác 0 là..."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Non-empty sequences, collections, and numerical values different from 0 are truthy values."
-    new "Non-empty sequences, collections, and numerical values different from 0 are truthy values."
+    new "Các trình tự, bộ sưu tập không trống và các giá trị số khác 0 là các giá trị truthy."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the name of the exception raised in Python when you try to index a list, tuple, or string beyond the permitted boundaries?"
-    new "What is the name of the exception raised in Python when you try to index a list, tuple, or string beyond the permitted boundaries?"
+    new "Tên của ngoại lệ được đưa ra trong Python khi bạn cố gắng truy cập chỉ số của một danh sách, bộ hoặc chuỗi vượt quá giới hạn cho phép là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "IndexError"
@@ -10544,35 +10544,35 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "An IndexError is raised in Python when you try to index a list, tuple, or string beyond the permitted boundaries."
-    new "An IndexError is raised in Python when you try to index a list, tuple, or string beyond the permitted boundaries."
+    new "Lỗi IndexError được đưa ra trong Python khi bạn cố gắng truy cập chỉ số của một danh sách, bộ hoặc chuỗi vượt quá giới hạn cho phép."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the name of the exception raised in Python when you try to access the value of a key that doesn't exist in a dictionary?"
-    new "What is the name of the exception raised in Python when you try to access the value of a key that doesn't exist in a dictionary?"
+    new "Tên của ngoại lệ được đưa ra trong Python khi bạn cố gắng truy cập giá trị của một khóa không tồn tại trong từ điển là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A KeyError is raised in Python when you try to access the value of a key that doesn't exist in a dictionary."
-    new "A KeyError is raised in Python when you try to access the value of a key that doesn't exist in a dictionary."
+    new "Lỗi KeyError được đưa ra trong Python khi bạn cố gắng truy cập giá trị của một khóa không tồn tại trong từ điển."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the name of the exception raised in Python when a name that you are referencing in the code doesn't exist?"
-    new "What is the name of the exception raised in Python when a name that you are referencing in the code doesn't exist?"
+    new "Tên của ngoại lệ được đưa ra trong Python khi một tên mà bạn đang tham chiếu trong mã không tồn tại là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A NameError is raised in Python when a name that you are referencing in the code doesn't exist."
-    new "A NameError is raised in Python when a name that you are referencing in the code doesn't exist."
+    new "Lỗi NameError được đưa ra trong Python khi một tên mà bạn đang tham chiếu trong mã không tồn tại."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the name of the exception raised in Python when an operation or function is applied to an object of an inappropriate type? "
-    new "What is the name of the exception raised in Python when an operation or function is applied to an object of an inappropriate type? "
+    new "Tên của ngoại lệ được đưa ra trong Python khi một thao tác hoặc hàm được áp dụng cho một đối tượng có kiểu không phù hợp là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A TypeError is raised in Python when an operation or function is applied to an object of an inappropriate type. "
-    new "A TypeError is raised in Python when an operation or function is applied to an object of an inappropriate type. "
+    new "Lỗi TypeError được đưa ra trong Python khi một thao tác hoặc hàm được áp dụng cho một đối tượng có kiểu không phù hợp."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What is the name of the exception raised in Python when you try to divide by zero?"
-    new "What is the name of the exception raised in Python when you try to divide by zero?"
+    new "Tên của ngoại lệ được đưa ra trong Python khi bạn cố gắng chia cho số không là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "ZeroDivisionError"
@@ -10580,11 +10580,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "A ZeroDivisionError is raised in Python when you try to divide by zero."
-    new "A ZeroDivisionError is raised in Python when you try to divide by zero."
+    new "Lỗi ZeroDivisionError được đưa ra trong Python khi bạn cố gắng chia cho số không."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What method is used to remove a key-value pair from a dictionary in Python and return its value?"
-    new "What method is used to remove a key-value pair from a dictionary in Python and return its value?"
+    new "Phương thức nào được dùng để xóa một cặp khóa-giá trị khỏi một từ điển trong Python và trả về giá trị của nó?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old ".insert()"
@@ -10592,11 +10592,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The .pop() method is used to remove a key-value pair from the dictionary and return the value."
-    new "The .pop() method is used to remove a key-value pair from the dictionary and return the value."
+    new "Phương thức .pop() được dùng để xóa một cặp khóa-giá trị khỏi từ điển và trả về giá trị đó."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What function can you call to open a file in Python?"
-    new "What function can you call to open a file in Python?"
+    new "Bạn có thể gọi hàm nào để mở một tệp trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "open()"
@@ -10616,11 +10616,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The open() function opens a file in a Python program. "
-    new "The open() function opens a file in a Python program. "
+    new "Hàm open() mở một tệp trong một chương trình Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function allows you to iterate over multiple iterables in parallel by returning a tuple with an item from each one?"
-    new "What built-in Python function allows you to iterate over multiple iterables in parallel by returning a tuple with an item from each one?"
+    new "Hàm Python tích hợp nào cho phép bạn lặp qua nhiều iterable song song bằng cách trả về một bộ có một mục từ mỗi cái?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "zip()"
@@ -10636,11 +10636,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The zip() function allows you to iterate over multiple iterables in parallel by returning a tuple with an item from each one."
-    new "The zip() function allows you to iterate over multiple iterables in parallel by returning a tuple with an item from each one."
+    new "Hàm zip() cho phép bạn lặp qua nhiều iterable song song bằng cách trả về một bộ có một mục từ mỗi cái."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns the smallest item in an iterable or the smallest of two or more arguments?"
-    new "What built-in Python function returns the smallest item in an iterable or the smallest of two or more arguments?"
+    new "Hàm Python tích hợp nào trả về mục nhỏ nhất trong một iterable hoặc giá trị nhỏ nhất của hai hoặc nhiều đối số?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "min()"
@@ -10660,11 +10660,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The min() function returns the smallest item in an iterable or the smallest of two or more arguments."
-    new "The min() function returns the smallest item in an iterable or the smallest of two or more arguments."
+    new "Hàm min() trả về mục nhỏ nhất trong một iterable hoặc giá trị nhỏ nhất của hai hoặc nhiều đối số."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns the largest item in an iterable or the largest of two or more arguments?"
-    new "What built-in Python function returns the largest item in an iterable or the largest of two or more arguments?"
+    new "Hàm Python tích hợp nào trả về mục lớn nhất trong một iterable hoặc giá trị lớn nhất của hai hoặc nhiều đối số?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "maximum()"
@@ -10676,11 +10676,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The max() function returns the largest item in an iterable or the largest of two or more arguments."
-    new "The max() function returns the largest item in an iterable or the largest of two or more arguments."
+    new "Hàm max() trả về mục lớn nhất trong một iterable hoặc giá trị lớn nhất của hai hoặc nhiều đối số."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns a new sorted list from the items in an iterable?"
-    new "What built-in Python function returns a new sorted list from the items in an iterable?"
+    new "Hàm Python tích hợp nào trả về một danh sách đã sắp xếp mới từ các mục trong một iterable?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "sorted()"
@@ -10696,11 +10696,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The sorted() function returns a new sorted list from the items in an iterable. "
-    new "The sorted() function returns a new sorted list from the items in an iterable. "
+    new "Hàm sorted() trả về một danh sách đã sắp xếp mới từ các mục trong một iterable."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns a reverse iterator that allows you to iterate over the elements of an iterable in reverse order?"
-    new "What built-in Python function returns a reverse iterator that allows you to iterate over the elements of an iterable in reverse order?"
+    new "Hàm Python tích hợp nào trả về một trình lặp ngược cho phép bạn lặp qua các phần tử của một iterable theo thứ tự ngược lại?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "reversed()"
@@ -10716,11 +10716,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The reversed() function returns a reverse iterator that you can use to iterate over an iterable in reverse order."
-    new "The reversed() function returns a reverse iterator that you can use to iterate over an iterable in reverse order."
+    new "Hàm reversed() trả về một trình lặp ngược mà bạn có thể sử dụng để lặp qua một iterable theo thứ tự ngược lại."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns a number rounded to a given number of digits of precision after the decimal point?"
-    new "What built-in Python function returns a number rounded to a given number of digits of precision after the decimal point?"
+    new "Hàm Python tích hợp nào trả về một số được làm tròn đến một số chữ số chính xác sau dấu phẩy thập phân?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "round()"
@@ -10740,11 +10740,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The round() function returns a number rounded to a given number of digits of precision after the decimal point."
-    new "The round() function returns a number rounded to a given number of digits of precision after the decimal point."
+    new "Hàm round() trả về một số được làm tròn đến một số chữ số chính xác sau dấu phẩy thập phân."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "How do you define a variable in Python?"
-    new "How do you define a variable in Python?"
+    new "Làm thế nào để bạn xác định một biến trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "<variable_name> = <value>"
@@ -10764,11 +10764,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "In Python, we define a variable with <variable_name> = <value>."
-    new "In Python, we define a variable with <variable_name> = <value>."
+    new "Trong Python, chúng ta xác định một biến với <tên_biến> = <giá_trị>."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python keyword is used to define a function in Python?"
-    new "What Python keyword is used to define a function in Python?"
+    new "Từ khóa Python nào được dùng để xác định một hàm trong Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "class"
@@ -10776,11 +10776,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The def keyword is used to define a function in Python."
-    new "The def keyword is used to define a function in Python."
+    new "Từ khóa def được dùng để xác định một hàm trong Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python function can you call to get interactive help on writing Python programs and using Python modules?"
-    new "What Python function can you call to get interactive help on writing Python programs and using Python modules?"
+    new "Hàm Python nào bạn có thể gọi để nhận trợ giúp tương tác về việc viết chương trình Python và sử dụng các mô-đun Python?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "help()"
@@ -10800,11 +10800,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The help() function can be called in Python to get interactive help on writing Python programs and using Python modules."
-    new "The help() function can be called in Python to get interactive help on writing Python programs and using Python modules."
+    new "Hàm help() có thể được gọi trong Python để nhận trợ giúp tương tác về việc viết chương trình Python và sử dụng các mô-đun Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python function returns True if all the elements of an iterable evaluate to True?"
-    new "What Python function returns True if all the elements of an iterable evaluate to True?"
+    new "Hàm Python nào trả về True nếu tất cả các phần tử của một iterable được đánh giá là True?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "all()"
@@ -10824,11 +10824,11 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The all() function returns True if all the elements of the iterable passed as an argument evaluate to True. Else, it returns False."
-    new "The all() function returns True if all the elements of the iterable passed as an argument evaluate to True. Else, it returns False."
+    new "Hàm all() trả về True nếu tất cả các phần tử của iterable được truyền vào làm đối số đều được đánh giá là True. Ngược lại, nó trả về False."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python function returns True if any element of the iterable evaluates to True?"
-    new "What Python function returns True if any element of the iterable evaluates to True?"
+    new "Hàm Python nào trả về True nếu bất kỳ phần tử nào của một iterable được đánh giá là True?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "one()"
@@ -10836,7 +10836,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The any() function returns True if any element of the iterable passed as an argument evaluates to True. Else, it returns False."
-    new "The any() function returns True if any element of the iterable passed as an argument evaluates to True. Else, it returns False."
+    new "Hàm any() trả về True nếu bất kỳ phần tử nào của iterable được truyền vào làm đối số được đánh giá là True. Ngược lại, nó trả về False."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What Python function returns the string representing a character whose Unicode code point is the integer passed as an argument?"
@@ -12000,153 +12000,153 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Jabber Script Object Notation"
-    new "Jabber Script Object Notation"
+    new "Ký hiệu đối tượng tập lệnh Jabber"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Jargon Script Object Notation"
-    new "Jargon Script Object Notation"
+    new "Ký hiệu đối tượng tập lệnh Jargon"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "JSON stands for JavaScript Object Notation which is a text-based format to store and exchange data."
-    new "JSON stands for JavaScript Object Notation which is a text-based format to store and exchange data."
+    new "JSON là viết tắt của JavaScript Object Notation, một định dạng dựa trên văn bản để lưu trữ và trao đổi dữ liệu."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "What is a Boolean?"
-    new "What is a Boolean?"
+    new "Boolean là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A data type representing a true or false value."
-    new "A data type representing a true or false value."
+    new "Một kiểu dữ liệu đại diện cho giá trị đúng hoặc sai."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A data type representing a number."
-    new "A data type representing a number."
+    new "Một kiểu dữ liệu đại diện cho một số."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A programming language."
-    new "A programming language."
+    new "Một ngôn ngữ lập trình."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A Python library."
-    new "A Python library."
+    new "Một thư viện Python."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "In computer science, a Boolean is a data type which only has two possible values of true or false."
-    new "In computer science, a Boolean is a data type which only has two possible values of true or false."
+    new "Trong khoa học máy tính, Boolean là một kiểu dữ liệu chỉ có hai giá trị có thể là đúng hoặc sai."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "What is the Design Thinking Process?"
-    new "What is the Design Thinking Process?"
+    new "Quy trình tư duy thiết kế là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A process to come up with creative, user centric solutions to complex problems."
-    new "A process to come up with creative, user centric solutions to complex problems."
+    new "Một quy trình để đưa ra các giải pháp sáng tạo, lấy người dùng làm trung tâm cho các vấn đề phức tạp."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A process to fix computers."
-    new "A process to fix computers."
+    new "Một quy trình sửa chữa máy tính."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A process to design mockups."
-    new "A process to design mockups."
+    new "Một quy trình thiết kế mô hình."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A process to troubleshoot Windows applications."
-    new "A process to troubleshoot Windows applications."
+    new "Một quy trình khắc phục sự cố ứng dụng Windows."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "The Design Thinking Process is a way to come up with creative, user centric solutions to complex problems."
-    new "The Design Thinking Process is a way to come up with creative, user centric solutions to complex problems."
+    new "Quy trình tư duy thiết kế là một cách để đưa ra các giải pháp sáng tạo, lấy người dùng làm trung tâm cho các vấn đề phức tạp."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Which phase is NOT part of the Design Thinking Process?"
-    new "Which phase is NOT part of the Design Thinking Process?"
+    new "Giai đoạn nào KHÔNG phải là một phần của Quy trình tư duy thiết kế?"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Rationalize"
-    new "Rationalize"
+    new "Hợp lý hóa"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Ideate"
-    new "Ideate"
+    new "Lên ý tưởng"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Prototype"
-    new "Prototype"
+    new "Tạo mẫu thử"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Empathize"
-    new "Empathize"
+    new "Đồng cảm"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "The five phases of the Design Thinking Process are Empathize, Define, Ideate, Prototype, and Test."
-    new "The five phases of the Design Thinking Process are Empathize, Define, Ideate, Prototype, and Test."
+    new "Năm giai đoạn của Quy trình tư duy thiết kế là: Đồng cảm, Xác định, Lên ý tưởng, Tạo mẫu thử và Kiểm tra."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "What is an Algorithm?"
-    new "What is an Algorithm?"
+    new "Thuật toán là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A set of steps to solve a problem"
-    new "A set of steps to solve a problem"
+    new "Một tập hợp các bước để giải quyết một vấn đề."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A programming language"
-    new "A programming language"
+    new "Một ngôn ngữ lập trình."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A collection of fonts"
-    new "A collection of fonts"
+    new "Một bộ sưu tập phông chữ."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "An algorithm is a set of steps to solve a problem."
-    new "An algorithm is a set of steps to solve a problem."
+    new "Thuật toán là một tập hợp các bước để giải quyết một vấn đề."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "What is a Floating point number?"
-    new "What is a Floating point number?"
+    new "Số dấu phẩy động là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A number with a decimal point"
-    new "A number with a decimal point"
+    new "Một số có dấu thập phân."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A number greater than 100"
-    new "A number greater than 100"
+    new "Một số lớn hơn 100."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A number less than 0"
-    new "A number less than 0"
+    new "Một số nhỏ hơn 0."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A number that is divisible by 3"
-    new "A number that is divisible by 3"
+    new "Một số chia hết cho 3."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A floating point number is a number with a decimal point."
-    new "A floating point number is a number with a decimal point."
+    new "Số dấu phẩy động là một số có dấu thập phân."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "What is Big O Notation?"
-    new "What is Big O Notation?"
+    new "Ký hiệu Big O là gì?"
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A way to measure the performance and efficiency of an algorithm."
-    new "A way to measure the performance and efficiency of an algorithm."
+    new "Một cách để đo lường hiệu suất và hiệu quả của một thuật toán."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A way to notate changes from the server."
-    new "A way to notate changes from the server."
+    new "Một cách để ghi chú các thay đổi từ máy chủ."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A way to notate the different types in a file system."
-    new "A way to notate the different types in a file system."
+    new "Một cách để ghi chú các loại khác nhau trong một hệ thống tệp."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "A way to notate the different elements in an array."
-    new "A way to notate the different elements in an array."
+    new "Một cách để ghi chú các phần tử khác nhau trong một mảng."
 
     # game/scripts/quiz_questions_from_csv.rpy:4730
     old "Big O notation is a way to measure the performance of an algorithm."
-    new "Big O notation is a way to measure the performance of an algorithm."
+    new "Ký hiệu Big O là một cách để đo lường hiệu suất của một thuật toán."
 

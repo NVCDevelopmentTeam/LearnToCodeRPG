@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-01-11 21:45
 
-translate english strings:
+translate vietnamese strings:
 
     # game/screens.rpy:258
     old "{icon=icon-skip-back} Back"
