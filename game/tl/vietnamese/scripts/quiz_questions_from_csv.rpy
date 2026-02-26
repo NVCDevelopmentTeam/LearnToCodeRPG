@@ -7512,7 +7512,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Scalable Vector Graphics"
-    new "Scalable Vector Graphics"
+    new "Scalable Vector Graphics (Đồ họa vectơ có thể mở rộng)"
 
     # game/scripts/quiz_questions_from_csv.rpy:2334
     old "Stretchable Vector Graphics"
@@ -10100,7 +10100,7 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "What built-in Python function returns the length of a sequence?"
-    new "What built-in Python function returns the length of a sequence?"
+    new "Hàm tích hợp nào trong Python trả về độ dài của một trình tự?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "size()"
@@ -10112,23 +10112,23 @@ translate vietnamese strings:
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "The len() function returns the length (number of items) of an object."
-    new "The len() function returns the length (number of items) of an object."
+    new "Hàm len() trả về độ dài (số lượng phần tử) của một đối tượng."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Are tuples mutable or immutable in Python?"
-    new "Are tuples mutable or immutable in Python?"
+    new "Trong Python, Tuple là kiểu dữ liệu có thể thay đổi hay bất biến?"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Neither Mutable or Immutable"
-    new "Neither Mutable or Immutable"
+    new "Không phải cả hai"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Both Mutable and Immutable"
-    new "Both Mutable and Immutable"
+    new "Cả hai"
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Tuples are immutable built-in data structures in Python. This means that you cannot add new elements to a tuple, you cannot update existing elements and you cannot remove elements from a tuple. "
-    new "Tuples are immutable built-in data structures in Python. This means that you cannot add new elements to a tuple, you cannot update existing elements and you cannot remove elements from a tuple. "
+    new "Tuples là cấu trúc dữ liệu tích hợp bất biến trong Python. Điều này có nghĩa là bạn không thể thêm phần tử mới, không thể cập nhật phần tử hiện có và không thể xóa phần tử khỏi một tuple."
 
     # game/scripts/quiz_questions_from_csv.rpy:3826
     old "Are lists mutable or immutable in Python?"

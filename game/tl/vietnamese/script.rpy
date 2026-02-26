@@ -100,13 +100,13 @@ translate vietnamese start_after_interview_e6995b46:
 translate vietnamese start_after_interview_7554ac55:
 
     # "Well, we aren't sure how you came across this opportunity through the portal you specified, but we're glad you're here!"
-    "Well, we aren't sure how you came across this opportunity through the portal you specified, but we're glad you're here!"
+    "Ồ, chúng tôi không chắc bạn đã tìm thấy cơ hội này thông qua cổng thông tin nào, nhưng chúng tôi rất vui vì bạn đã ở đây!"
 
 # game/script.rpy:138
 translate vietnamese start_after_interview_7d848fe0:
 
     # "Way to go! We'll notify you about all the events and opportunities."
-    "Way to go! We'll notify you about all the events and opportunities."
+    "Tuyệt lắm! Chúng tôi sẽ thông báo cho bạn về tất cả các sự kiện và cơ hội sắp tới."
 
 # game/script.rpy:141
 translate vietnamese start_after_interview_704e009a:
@@ -959,7 +959,6 @@ translate vietnamese stage4_bfe51758:
 
     # player "An additional perk is that I get first-hand knowledge of interesting things happening on campus."
     player "Một cái lợi nữa là mình luôn nắm bắt được những chuyện hay ho đang diễn ra trong trường ngay từ đầu luôn."
-    player "An additional perk is that I get first-hand knowledge of interesting things happening on campus."
 
 # game/script.rpy:424
 translate vietnamese stage4_a4b6c073:
@@ -1259,7 +1258,7 @@ translate vietnamese stage5_choose_curriculum_eeb9fe4b:
 translate vietnamese stage5_choose_curriculum_f6a3d026:
 
     # player "Let's find something else."
-    player "Let's find something else."
+    player "Hãy tìm thứ gì đó khác xem sao."
 
 # game/script.rpy:556
 translate vietnamese stage5_choose_curriculum_05fe51ba:
@@ -3863,91 +3862,91 @@ translate vietnamese layla_story_choices_64f8a1bf:
 translate vietnamese layla_story_choices_106d81d5:
 
     # layla "Not a bad experience given that I had a supportive team behind me."
-    layla "Not a bad experience given that I had a supportive team behind me."
+    layla "Đó không phải là một trải nghiệm tệ khi chị có một đội ngũ luôn hỗ trợ mình."
 
 # game/script.rpy:1571
 translate vietnamese layla_story_choices_1eb18dba:
 
     # player @ happy "Awww that's nice!"
-    player @ happy "Awww that's nice!"
+    player @ happy "Awww, thật là tuyệt quá!"
 
 # game/script.rpy:1572
 translate vietnamese layla_story_choices_aee4d547:
 
     # layla @ laugh "Yep. Now that you're the newbie here, the team and I will be here for you."
-    layla @ laugh "Yep. Now that you're the newbie here, the team and I will be here for you."
+    layla @ laugh "Đúng vậy. Giờ em là thành viên mới ở đây, chị và cả nhóm sẽ luôn đồng hành cùng em."
 
 # game/script.rpy:1575
 translate vietnamese layla_story_choices_a7c3d1ca:
 
     # player "So what is our team like?"
-    player "So what is our team like?"
+    player "Vậy nhóm mình như thế nào ạ?"
 
 # game/script.rpy:1576
 translate vietnamese layla_story_choices_5c9477dc:
 
     # layla "Oh, they are out investigating a customer case today, so it's only you and me here in the office."
-    layla "Oh, they are out investigating a customer case today, so it's only you and me here in the office."
+    layla "Ồ, hôm nay mọi người đều đi khảo sát một trường hợp khách hàng rồi, nên ở văn phòng chỉ có chị và em thôi."
 
 # game/script.rpy:1577
 translate vietnamese layla_story_choices_26bd8ffb:
 
     # layla "But you will meet them soon. They are all nice and smart people."
-    layla "But you will meet them soon. They are all nice and smart people."
+    layla "Nhưng em sẽ sớm gặp họ thôi. Tất cả đều là những người rất tốt bụng và thông minh."
 
 # game/script.rpy:1578
 translate vietnamese layla_story_choices_d9e96961:
 
     # layla "You and I included, we have five developers in total, one scrum manager, one product manager, one UX designer. That makes us a team of eight."
-    layla "You and I included, we have five developers in total, one scrum manager, one product manager, one UX designer. That makes us a team of eight."
+    layla "Tính cả chị và em, chúng ta có tổng cộng năm lập trình viên, một quản lý scrum, một quản lý sản phẩm, một nhà thiết kế UX. Tổng cộng nhóm mình có tám người."
 
 # game/script.rpy:1579
 translate vietnamese layla_story_choices_0d6cf1d3:
 
     # player @ laugh "Sounds cool! Can't wait to meet the team."
-    player @ laugh "Sounds cool! Can't wait to meet the team."
+    player @ laugh "Nghe tuyệt quá! Em rất mong được gặp mọi người ạ."
 
 # game/script.rpy:1582
 translate vietnamese layla_story_choices_c07b8812:
 
     # player @ laugh "I'm done asking! I feel so much better knowing that everyone started from square one."
-    player @ laugh "I'm done asking! I feel so much better knowing that everyone started from square one."
+    player @ laugh "Em hết câu hỏi rồi ạ! Em cảm thấy nhẹ nhõm hơn nhiều khi biết rằng ai cũng đều bắt đầu từ con số không."
 
 # game/script.rpy:1583
 translate vietnamese layla_story_choices_4db68907:
 
     # layla @ neutral "Hehe, [player_name], you are a fun one. I'm sure you will enjoy your work as a developer."
-    layla @ neutral "Hehe, [player_name], you are a fun one. I'm sure you will enjoy your work as a developer."
+    layla @ neutral "Hehe, [player_name], em thú vị đấy. Chị chắc chắn em sẽ yêu thích công việc của một lập trình viên."
 
 # game/script.rpy:1585
 translate vietnamese layla_story_choices_1d10388b:
 
     # layla @ laugh "Are we now ready to go back and squash some bugs?"
-    layla @ laugh "Are we now ready to go back and squash some bugs?"
+    layla @ laugh "Giờ em đã sẵn sàng quay lại và tiêu diệt vài cái bug chưa?"
 
 # game/script.rpy:1586
 translate vietnamese layla_story_choices_013deab4:
 
     # player laugh "Lead the way!"
-    player laugh "Lead the way!"
+    player laugh "Chị dẫn đường đi ạ!"
 
 # game/script.rpy:1590
 translate vietnamese ending_9d48e617:
 
     # player relieved "Okay, finally, I think my code is good to go! Let's commit it to the server."
-    player relieved "Okay, finally, I think my code is good to go! Let's commit it to the server."
+    player relieved "Được rồi, cuối cùng thì mình nghĩ code đã ổn rồi! Đẩy lên máy chủ thôi nào."
 
 # game/script.rpy:1591
 translate vietnamese ending_cc16eabe:
 
     # player neutral "Hmmm... Maybe it's a good idea to double-check?"
-    player neutral "Hmmm... Maybe it's a good idea to double-check?"
+    player neutral "Hmmm... Có lẽ nên kiểm tra lại lần nữa cho chắc nhỉ?"
 
 # game/script.rpy:1594
 translate vietnamese ending_check_code_8478520b:
 
     # player "Should I check my code some more?" nointeract
-    player "Should I check my code some more?" nointeract
+    player "Mình có nên kiểm tra code thêm chút nữa không nhỉ?" nointeract
 
 # game/script.rpy:1599
 translate vietnamese ending_check_code_03775ec8:
@@ -4259,71 +4258,71 @@ translate vietnamese strings:
 
     # game/script.rpy:105
     old "Career fair"
-    new "Career fair"
+    new "Hội chợ việc làm"
 
     # game/script.rpy:105
     old "Job posting websites"
-    new "Job posting websites"
+    new "Các trang web đăng tin tuyển dụng"
 
     # game/script.rpy:105
     old "Referral"
-    new "Referral"
+    new "Được giới thiệu"
 
     # game/script.rpy:105
     old "Others (Please specify)"
-    new "Others (Please specify)"
+    new "Khác (Vui lòng nêu rõ)"
 
     # game/script.rpy:118
     old "What is the first name of your referral? (Type something and hit Enter)"
-    new "What is the first name of your referral? (Type something and hit Enter)"
+    new "Tên của người giới thiệu bạn là gì? (Nhập tên và nhấn Enter)"
 
     # game/script.rpy:131
     old "How did you hear about us? (Type something and hit Enter)"
-    new "How did you hear about us? (Type something and hit Enter)"
+    new "Bạn biết đến chúng tôi qua đâu? (Nhập thông tin và nhấn Enter)"
 
     # game/script.rpy:134
     old "Would you like to opt in to our recruiting email list?"
-    new "Would you like to opt in to our recruiting email list?"
+    new "Bạn có muốn đăng ký nhận email tuyển dụng từ chúng tôi không?"
 
     # game/script.rpy:134
     old "Yes"
-    new "Yes"
+    new "Có"
 
     # game/script.rpy:134
     old "No"
-    new "No"
+    new "Không"
 
     # game/script.rpy:156
     old "About three months ago..."
-    new "About three months ago..."
+    new "Khoảng ba tháng trước..."
 
     # game/script.rpy:157
     old "{i}Chapter 1: Let's learn to code!{/i}"
-    new "{i}Chapter 1: Let's learn to code!{/i}"
+    new "{i}Chương 1: Bắt đầu học lập trình thôi nào!{/i}"
 
     # game/script.rpy:225
     old "Check phone"
-    new "Check phone"
+    new "Kiểm tra điện thoại"
 
     # game/script.rpy:225
     old "Ignore"
-    new "Ignore"
+    new "Bỏ qua"
 
     # game/script.rpy:236
     old "Leave a like"
-    new "Leave a like"
+    new "Để lại một lượt thích"
 
     # game/script.rpy:236
     old "Post a comment"
-    new "Post a comment"
+    new "Để lại bình luận"
 
     # game/script.rpy:236
     old "Do nothing"
-    new "Do nothing"
+    new "Không làm gì cả"
 
     # game/script.rpy:351
     old "{i}Chapter 2: A learning buddy to make it better!{/i}"
-    new "{i}Chapter 2: A learning buddy to make it better!{/i}"
+    new "{i}Chương 2: Có bạn cùng học sẽ tốt hơn!{/i}"
 
     # game/script.rpy:460
     old "freebieGoodie"
@@ -4339,59 +4338,59 @@ translate vietnamese strings:
 
     # game/script.rpy:486
     old "Responsive Web Design"
-    new "Responsive Web Design"
+    new "Thiết kế Web Đáp ứng"
 
     # game/script.rpy:486
     old "JavaScript Algorithms and Data Structures"
-    new "JavaScript Algorithms and Data Structures"
+    new "Cấu trúc Dữ liệu và Giải thuật JavaScript"
 
     # game/script.rpy:486
     old "Front End Development Libraries"
-    new "Front End Development Libraries"
+    new "Các thư viện Phát triển Front End"
 
     # game/script.rpy:486
     old "Data Visualization"
-    new "Data Visualization"
+    new "Trực quan hóa Dữ liệu"
 
     # game/script.rpy:486
     old "Back End Development and APIs"
-    new "Back End Development and APIs"
+    new "Phát triển Back End và các API"
 
     # game/script.rpy:486
     old "Quality Assurance"
-    new "Quality Assurance"
+    new "Đảm bảo Chất lượng (QA)"
 
     # game/script.rpy:486
     old "Data Analysis with Python"
-    new "Data Analysis with Python"
+    new "Phân tích Dữ liệu với Python"
 
     # game/script.rpy:486
     old "Machine Learning with Python"
-    new "Machine Learning with Python"
+    new "Học máy với Python"
 
     # game/script.rpy:486
     old "Let's just wait until tomorrow and ask Annika for advice"
-    new "Let's just wait until tomorrow and ask Annika for advice"
+    new "Hãy cứ đợi đến mai rồi hỏi ý kiến Annika xem sao"
 
     # game/script.rpy:524
     old "Let's go grab a cookie from the kitchen"
-    new "Let's go grab a cookie from the kitchen"
+    new "Vào bếp lấy một chiếc bánh quy thôi nào"
 
     # game/script.rpy:524
     old "Enough cookie talk! Let's go back to studying"
-    new "Enough cookie talk! Let's go back to studying"
+    new "Thôi đừng nói về bánh quy nữa! Quay lại học bài thôi"
 
     # game/script.rpy:696
     old "{i}Chapter 3: Let's hit the books!{/i}"
-    new "{i}Chapter 3: Let's hit the books!{/i}"
+    new "{i}Chương 3: Bắt đầu vùi đầu vào sách vở nào!{/i}"
 
     # game/script.rpy:811
     old "What topic to ask Annika about?"
-    new "What topic to ask Annika about?"
+    new "Muốn hỏi Annika về chủ đề gì?"
 
     # game/script.rpy:811
     old "Hackathon"
-    new "Hackathon"
+    new "Cuộc thi Hackathon"
 
     # game/script.rpy:811
     old "Hacker Space"
@@ -4399,83 +4398,83 @@ translate vietnamese strings:
 
     # game/script.rpy:811
     old "That's everything I need to know"
-    new "That's everything I need to know"
+    new "Đó là tất cả những gì mình cần biết"
 
     # game/script.rpy:986
     old "{i}Chapter 4: A mentor to lead the way!{/i}"
-    new "{i}Chapter 4: A mentor to lead the way!{/i}"
+    new "{i}Chương 4: Một người cố vấn dẫn đường!{/i}"
 
     # game/script.rpy:1034
     old "What are you up to nowadays?"
-    new "What are you up to nowadays?"
+    new "Dạo này chị đang làm gì thế ạ?"
 
     # game/script.rpy:1034
     old "Do you still have much to learn as a senior engineer?"
-    new "Do you still have much to learn as a senior engineer?"
+    new "Là một kỹ sư cấp cao, chị có còn phải học nhiều không ạ?"
 
     # game/script.rpy:1034
     old "What is your experience working with people who have a CS degree versus those who don't?"
-    new "What is your experience working with people who have a CS degree versus those who don't?"
+    new "Trải nghiệm của chị khi làm việc với người có bằng CS so với người không có bằng là như thế nào ạ?"
 
     # game/script.rpy:1034
     old "Do you have a favorite side project?"
-    new "Do you have a favorite side project?"
+    new "Chị có dự án cá nhân nào yêu thích không?"
 
     # game/script.rpy:1034
     old "I'm done asking!"
-    new "I'm done asking!"
+    new "Em hết câu hỏi rồi ạ!"
 
     # game/script.rpy:1164
     old "Wait, what even is an IDE?"
-    new "Wait, what even is an IDE?"
+    new "Khoan đã, IDE thực chất là cái gì ạ?"
 
     # game/script.rpy:1164
     old "Hmmm... Interesting"
-    new "Hmmm... Interesting"
+    new "Hmmm... Thú vị thật đấy"
 
     # game/script.rpy:1184
     old "Any more questions about coding interviews?"
-    new "Any more questions about coding interviews?"
+    new "Còn câu hỏi nào về các buổi phỏng vấn lập trình không?"
 
     # game/script.rpy:1184
     old "What's the entire interview pipeline like?"
-    new "What's the entire interview pipeline like?"
+    new "Toàn bộ quy trình phỏng vấn diễn ra như thế nào ạ?"
 
     # game/script.rpy:1184
     old "What happens after an interview?"
-    new "What happens after an interview?"
+    new "Điều gì sẽ xảy ra sau buổi phỏng vấn ạ?"
 
     # game/script.rpy:1249
     old "{bt}Congratulations!{/bt}"
-    new "{bt}Congratulations!{/bt}"
+    new "{bt}Chúc mừng!{/bt}"
 
     # game/script.rpy:1249
     old "You completed the coding curriculum in {b}{color=#002ead}[days_between_start_and_curriculum_completion]{/color}{/b} days.\nNow you are ready to rock your coding interviews and realize your dream of becoming a software engineer.\n Feel free to share your progress with the world!"
-    new "You completed the coding curriculum in {b}{color=#002ead}[days_between_start_and_curriculum_completion]{/color}{/b} days.\nNow you are ready to rock your coding interviews and realize your dream of becoming a software engineer.\n Feel free to share your progress with the world!"
+    new "Bạn đã hoàn thành chương trình học lập trình trong {b}{color=#002ead}[days_between_start_and_curriculum_completion]{/color}{/b} ngày.\nGiờ đây bạn đã sẵn sàng để chinh phục các buổi phỏng vấn và hiện thực hóa ước mơ trở thành kỹ sư phần mềm.\nHãy thoải mái chia sẻ tiến độ của bạn với cả thế giới nhé!"
 
     # game/script.rpy:1249
     old "Let's crush those interviews!"
-    new "Let's crush those interviews!"
+    new "Hãy chinh phục những buổi phỏng vấn đó thôi!"
 
     # game/script.rpy:1268
     old "{i}Chapter 5: Let's crush those interviews!{/i}"
-    new "{i}Chapter 5: Let's crush those interviews!{/i}"
+    new "{i}Chương 5: Chinh phục những buổi phỏng vấn!{/i}"
 
     # game/script.rpy:1433
     old "You taught yourself to become a developer in {b}{color=[dark_blue]}[days_between_start_and_offer]{/color}{/b} days, [days_between_curriculum_completion_and_offer] days after you've completed the coding curriculum.\nYou have applied to [num_jobs_applied] jobs and interviewed for [num_jobs_interviewed] times before landing this offer.\nNow you are ready to rock your new job!\n Feel free to share your progress with the world!"
-    new "You taught yourself to become a developer in {b}{color=[dark_blue]}[days_between_start_and_offer]{/color}{/b} days, [days_between_curriculum_completion_and_offer] days after you've completed the coding curriculum.\nYou have applied to [num_jobs_applied] jobs and interviewed for [num_jobs_interviewed] times before landing this offer.\nNow you are ready to rock your new job!\n Feel free to share your progress with the world!"
+    new "Bạn đã tự học để trở thành một lập trình viên trong {b}{color=[dark_blue]}[days_between_start_and_offer]{/color}{/b} ngày, tức [days_between_curriculum_completion_and_offer] ngày sau khi hoàn thành chương trình học.\nBạn đã ứng tuyển vào [num_jobs_applied] công việc và phỏng vấn [num_jobs_interviewed] lần trước khi nhận được lời mời làm việc này.\nGiờ đây bạn đã sẵn sàng cho công việc mới!\nHãy thoải mái chia sẻ tiến độ của bạn với cả thế giới nhé!"
 
     # game/script.rpy:1433
     old "Let's rock my new job!"
-    new "Let's rock my new job!"
+    new "Bắt đầu công việc mới thôi nào!"
 
     # game/script.rpy:1452
     old "{i}Chapter 6: Let's meet my new colleagues!{/i}"
-    new "{i}Chapter 6: Let's meet my new colleagues!{/i}"
+    new "{i}Chương 6: Cùng gặp gỡ những đồng nghiệp mới!{/i}"
 
     # game/script.rpy:1516
     old "Do you know what imposter syndrome is?"
-    new "Do you know what imposter syndrome is?"
+    new "Bạn có biết hội chứng kẻ giả mạo (imposter syndrome) là gì không?"
 
     # game/script.rpy:1516
     old "Yes."
